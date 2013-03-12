@@ -1,5 +1,5 @@
-jquery.inputmask
-================
+jquery.inputmask.js
+===================
 
 This is a handy JQuery plugin for form inputs to allow/restrict the values one wants. JS offers three methods -
 
